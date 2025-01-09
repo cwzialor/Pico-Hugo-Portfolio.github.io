@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cases on Caspar Zialor</title>
+    <link>https://mynewhugosite.com/cases/</link>
+    <description>Recent content in Cases on Caspar Zialor</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://mynewhugosite.com/cases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Conversations</title>
+      <link>https://mynewhugosite.com/cases/998---daily-conversations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mynewhugosite.com/cases/998---daily-conversations/</guid>
+      <description>&lt;p&gt;Innovative Language Learning (ILL) is a subscription based language learning app headquartered in Tokyo. I was a Video Project Manager responsible for developing new video series.&lt;/p&gt;&#xA;&lt;p&gt;The &amp;lsquo;Daily Conversations&amp;rsquo; series began as a request from Management team. Therefore, they wanted me to recycle an audio series that had previously only been available through the app into a video series for YouTube without recording new footage or audios.&lt;/p&gt;&#xA;&lt;p&gt;Primarily, ILL gains new users through their 34 language specific YouTube channels.  The audios and transcripts were accessible however it was not clear how they wanted them produced. First, my role was creating the video prototype for management and before scaling the series to the video editors. The templates needed to accommodate the standards of each of 34 different language channel, this includes: typeface, pre-rolls, end-rolls, site bugs, colour schemes, text alignment, Ruby or non-Ruby text, and romanised or non-romanised text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disiai: A Queer Subculture in China</title>
+      <link>https://mynewhugosite.com/cases/997---disiai-a-queer-subculture-in-china/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mynewhugosite.com/cases/997---disiai-a-queer-subculture-in-china/</guid>
+      <description>&lt;p&gt;I independently wrote a paper which was accepted by the the 110th Annual Convention of the National Communications Association in New Orleans, USA.&lt;/p&gt;&#xA;&lt;p&gt;My paper, &amp;ldquo;Disiai: A Queer Subculture in China&amp;rdquo; explores China&amp;rsquo;s LGBTQ+ community. It is a community which navigates social norms, legal frameworks, and cultural attitudes different to those of Western countries. Therefore the study was required to consider the unique cultural, philosophical and historical context of gender identity among the Chinese peoples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Video Solutions  HTML &amp; CSS Website</title>
+      <link>https://mynewhugosite.com/cases/999---videosolutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mynewhugosite.com/cases/999---videosolutions/</guid>
+      <description>&lt;p&gt;VideoSolutions is a Japanese social media management firm that provides international clients with localised content and campaigns in the luxury industry. They require a website to help inform potential clients of the products and services they have available.&lt;/p&gt;&#xA;&lt;p&gt;The owner built the original site in Tumult Hype, that is not the intended purpose of the software. As a consequence the site was slow and buggy. I was tasked with rebuilding the site using HTML and CSS.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
